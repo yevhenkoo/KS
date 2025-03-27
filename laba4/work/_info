@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vEx2
+!i10b 1
+Z1 !s100 czSPRV8e@7FTG_7CTG5Ka2
+Z2 IbkoMl8hHZ_IoU;LEb:8gY2
+Z3 VLi>V_:9]Hl8EJan0_0R:D2
+Z4 dD:\Shema\laba3
+Z5 w1742924931
+Z6 8D:/Shema/laba3/Ex2_Onischenko_OR.v
+Z7 FD:/Shema/laba3/Ex2_Onischenko_OR.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1742925471.778000
+!s107 D:/Shema/laba3/Ex2_Onischenko_OR.v|
+Z9 !s90 -reportprogress|300|-work|work|D:/Shema/laba3/Ex2_Onischenko_OR.v|
+!s101 -O0
+Z10 o-work work -O0
+n@ex2
+vEx2_OR
+Z11 ILd^g:c[i@I`299kgRB3VO3
+Z12 VYfliPh^TfB6O=FTZ0CUe30
+R4
+Z13 w1742921844
+R6
+R7
+L0 1
+R8
+r1
+31
+R10
+Z14 n@ex2_@o@r
+Z15 !s100 OX<DJe?hAMLan<ci_Uf872
+Z16 !s108 1742921845.174000
+Z17 !s107 D:/Shema/laba3/Ex2_Onischenko_OR.v|
+R9
+!i10b 1
+!s85 0
+!s101 -O0
